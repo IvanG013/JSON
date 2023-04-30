@@ -3,7 +3,7 @@
 "Summary": "The menu title [Prof] cannot be clicked",
 "Version": "Windows 11 pro",
 "Steps": "Navigate to car.com, Select  one of the licenses FCA, CYSEC, Select EN language, lick on the  menu section [Ways], Click on the menu title [Professional Tr]",
-"Actual result": "The menu title [Professional Tr] cannot be clicked,предупреждающего окна нету",
+"Actual result": "The menu title [Professional Tr] cannot be clicked",
 "Expected result": "The menu title [Professional Tr]  click is available",
 "Severity": "Minor",
 "Priority": "Low",
